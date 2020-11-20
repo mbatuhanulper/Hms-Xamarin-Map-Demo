@@ -1,0 +1,14 @@
+{
+	"client":{
+		"appType":"1",
+		"cp_id":"890090000023105693",
+		"product_id":"736430079244706677",
+		"client_id":"498482251617546624",
+		"client_secret":"9D9ECA314FC986BD04BEE9BD480164EBEA3A88CF96A77123299EB7F0315FB841",
+		"project_id":"736430079244706677",
+		"app_id":"103299027",
+		"api_key":"CgB6e3x9Sw3ImqbJxmvJKsHwRLeuLyvHT/NaUdc2vvGr1k1+ha4j14E2F6jCOjyaQRzjEJxFqJ3Mzn5kqetOeZBk",
+		"package_name":"com.batuhan.xamarin_map_drawer_demo"
+	},
+	"configuration_version":"1.0"
+}
